@@ -37,7 +37,7 @@ Inspired by Netflix’s premium streaming site, this concept landing page replic
 
 These projects reflect my deeper experience with **modern frameworks, TypeScript, REST APIs**, and design systems.
 
-### 🔹 [PrepMeUp)](https://prepmeupnow.vercel.app/)
+### 🔹 [PrepMeUp](https://prepmeupnow.vercel.app/)
 An AI-powered app that helps with interview preparation by generating targeted questions from uploaded JDs and resumes utilizing Gemini API.
 - Stack & Tech: NextJS, TypeScript, TailwindCSS, Gemini API
 - Built dual modes: Preparation (targeted Q&A) and Practice (mock interviews with AI feedback and scoring).
