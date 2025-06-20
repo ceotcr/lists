@@ -19,13 +19,13 @@ Corporate website for a next‑gen, secure email suite offering encrypted email,
 - Enterprise-level UI/UX across web
 - Polished, information-rich layout
 
-### 🔹 [CSS Shadow Generator](https://ceotcr.github.io/css-shadow-generator/) [(Repo)](https://github.com/ceotcr/css-shadow-generator)
+### 🔹 [CSS Shadow Generator](https://ceotcr.github.io/css-shadow-generator/) | [Repo](https://github.com/ceotcr/css-shadow-generator)
 A responsive tool to generate and preview CSS box shadows with live interactivity. Features:
 - DOM manipulation in JS
 - Real-time style updates
 - Clean and responsive layout
 
-### 🔹 [TCRFlix - Concept Design](https://ceotcr.github.io/OIBGRIP/L1T1/) [(Repo)](https://github.com/ceotcr/OIBGRIP/tree/main/L1T3)
+### 🔹 [TCRFlix - Concept Design](https://ceotcr.github.io/OIBGRIP/L1T1/) | [Repo](https://github.com/ceotcr/OIBGRIP/tree/main/L1T3)
 Inspired by Netflix’s premium streaming site, this concept landing page replicates the polished feel of a professional SaaS product site.
 - Conceptual translation of a premium brand experience
 - Strong sense of layout, hierarchy, and visual polish
@@ -49,18 +49,18 @@ A custom-built e-commerce solution for a tea startup, Chaivio helps reduce depen
 - Secure PayPal integration for one-time and recurring payments (subscriptions)
 - SEO optimization via SSR, achieving #1 rank in the US for key queries
 
-### 🔹 [Social Media App](https://github.com/ceotcr/social-media)
+### 🔹 [Social Media App (Repo)](https://github.com/ceotcr/social-media)
 Developed during WT’s CIA B project. Includes:
 - Full-stack features (posts, profiles, likes)
 - T3 Stack: Next.js, TypeScript, Tailwind, Prisma
 - SSO via github
 
-### 🔹 [E-Commerce dashboard mini project](https://github.com/ceotcr/bits-react-mp) - Demo Video Available
+### 🔹 [E-Commerce dashboard mini project (Repo)](https://github.com/ceotcr/bits-react-mp) - Demo Video Available
 A mini project to test out my react skills.
 - Stack & Teck: ReactJS, TypeScript, MaterialUI, TailwindCSS
 - Used Tanstack Query, Zustand, React-Hook-Form for performance
 
-### 🔹 [Uplance - Full Stack Project](https://github.com/ceotcr/freelance)
+### 🔹 [Uplance - Full Stack Project (Repo)](https://github.com/ceotcr/freelance)
 A project to test out my skills in ReactJS and NestJS.
 - Stack & Tech: ReactJS, NestJS, Typesctipt, Antd, TailwindCSS
 - Built role based access control
@@ -68,7 +68,7 @@ A project to test out my skills in ReactJS and NestJS.
 - Demo
   https://github.com/user-attachments/assets/3bb0c21c-fcab-4628-8b4a-3e20356b8ae3
 
-### 🔹 [TLRMS Backend API](https://github.com/ceotcr/TLRMS)
+### 🔹 [TLRMS Backend API (Repo)](https://github.com/ceotcr/TLRMS)
 Backend APIs for a teaching-learning resource system.
 - Node.js, Express, MongoDB
 - Secure REST endpoints
