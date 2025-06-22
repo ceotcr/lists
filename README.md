@@ -50,7 +50,7 @@ An AI-powered app that helps with interview preparation by generating targeted q
 ### 🔹 [Chaivio](https://chaivio.com/) - Associated with Internship at Aniworks
 A custom-built e-commerce solution for a tea startup, Chaivio helps reduce dependency on third-party platforms by enabling direct subscriptions and event-based sales, boosting revenue and ownership.
 - Frontend: Next.js (React), TypeScript, Tailwind CSS, Hero UI (Formally Next UI)
-- Backend: Next.js API Routes
+- Intermidiate Backend: Next.js API Routes
 - Secure PayPal integration for one-time and recurring payments (subscriptions)
 - SEO optimization via SSR, achieving #1 rank in the US for key queries
 
