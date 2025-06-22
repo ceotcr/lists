@@ -3,6 +3,11 @@
 Hi! I'm Chetan (TCR), a full-stack developer with a strong focus on front-end development, UI/UX, and modern web architecture. Below is a curated list of my projects as per the requirements.
 
 ---
+#### Table of Contents
+1. [HTML5, CSS3, JS (No Frameworks)](#-section-1-html5-css3-javascript-no-frameworks)
+2. [React & Advanced Tech](#%EF%B8%8F-section-2-react--advanced-tech-stack)
+3. [Backend Only](#%EF%B8%8F-section-3-backend-only)
+---
 
 ## 🌐 Section 1: HTML5, CSS3, JavaScript (No Frameworks)
 
