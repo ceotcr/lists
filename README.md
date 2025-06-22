@@ -57,7 +57,7 @@ Developed during WT’s CIA B project. Includes:
 
 ### 🔹 [E-Commerce dashboard mini project (Repo)](https://github.com/ceotcr/bits-react-mp) - Demo Video Available
 A mini project to test out my react skills.
-- Stack & Teck: ReactJS, TypeScript, MaterialUI, TailwindCSS
+- Stack & Tech: ReactJS, TypeScript, MaterialUI, TailwindCSS
 - Used Tanstack Query, Zustand, React-Hook-Form for performance
 
 ### 🔹 [Uplance - Full Stack Project (Repo)](https://github.com/ceotcr/freelance)
@@ -68,9 +68,17 @@ A project to test out my skills in ReactJS and NestJS.
 - Demo
   https://github.com/user-attachments/assets/3bb0c21c-fcab-4628-8b4a-3e20356b8ae3
 
+## 😶‍🌫️ Section 3: Backend Only
+
+### 🔹 [Cinephile - Telegram Bot]
+- Stack & Tech: Nest.js, TypeScript, SQLite, Simkl API, Telegram Bot API
+- Track watchlist, get daily premiere updates, reminders for show
+- Features: Search anime, manage to watchlist, auto update to next airing date.
+- Cron Job - Daily reminder, scheduled reminders via nest/schedule
+
 ### 🔹 [TLRMS Backend API (Repo)](https://github.com/ceotcr/TLRMS)
 Backend APIs for a teaching-learning resource system.
-- Node.js, Express, MongoDB
+- Stack & Tech: Node.js, Express, MongoDB
 - Secure REST endpoints
 - Scalable architecture for academic environments
 - Token based auth system
