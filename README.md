@@ -75,7 +75,7 @@ A project to test out my skills in ReactJS and NestJS.
 
 ## 😶‍🌫️ Section 3: Backend Only
 
-### 🔹 [Cinephile - Telegram Bot]
+### 🔹 [Cinephile - Telegram Bot (Repo)](https://github.com/ceotcr/cinephile)
 - Stack & Tech: Nest.js, TypeScript, SQLite, Simkl API, Telegram Bot API
 - Track watchlist, get daily premiere updates, reminders for show
 - Features: Search anime, manage to watchlist, auto update to next airing date.
