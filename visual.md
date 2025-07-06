@@ -87,7 +87,7 @@ Developed during WT’s CIA B project. Includes:
 - Full-stack features (posts, profiles, likes)
 - T3 Stack: Next.js, TypeScript, Tailwind, Prisma
 - SSO via github
-- ![image](https://github.com/user-attachments/assets/e6c4c51d-35e7-4ce4-a66e-3c26fb7caa43)
+- ![image](https://github.com/user-attachments/assets/cba88700-a471-4928-8c4c-4ade4a4b120e)
 
 ## 😶‍🌫️ Section 3: Backend Only
 
