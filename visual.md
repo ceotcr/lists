@@ -76,7 +76,6 @@ A project to test out my skills in ReactJS and NestJS.
 https://github.com/user-attachments/assets/3bb0c21c-fcab-4628-8b4a-3e20356b8ae3
 
 ### 🔹 [Portfolio (Alpha)](https://chetansapkal.vercel.app)
-Developed during WT’s CIA B project. Includes:
 - NextJS + TS + TailwindCSS
 - GSAP for animations
 - A little bit of Vibe Coding
