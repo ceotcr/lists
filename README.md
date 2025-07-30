@@ -53,6 +53,12 @@ A custom-built e-commerce solution for a tea startup, Chaivio helps reduce depen
 - Intermediate Backend: Next.js API Routes
 - Secure PayPal integration for one-time and recurring payments (subscriptions)
 - SEO optimization via SSR, achieving #1 rank in the US for key queries
+  
+### 🔹 [HD Notes](https://highwaydelitenotes.vercel.app/) | [Repo](https://github.com/ceotcr/hd)
+A note taking application developed as an assignment.
+- Frontend: Next.js (React), TypeScript, Tailwind CSS
+- Backend: Next.js API Routes, MongoDB
+- Auth with NextAuth powered by Google & email and OTP based custom auth
 
 ### 🔹 [Social Media App (Repo)](https://github.com/ceotcr/social-media)
 Developed during WT’s CIA B project. Includes:
