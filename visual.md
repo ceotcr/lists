@@ -60,6 +60,14 @@ A custom-built e-commerce solution for a tea startup, Chaivio helps reduce depen
 - SEO optimization via SSR, achieving #1 rank in the US for key queries
 - ![image](https://github.com/user-attachments/assets/278ba750-d83c-433b-946b-7dbc27852060)
 
+### 🔹 [HD Notes](https://highwaydelitenotes.vercel.app/) | [Repo](https://github.com/ceotcr/hd)
+A note taking application developed as an assignment.
+- Frontend: Next.js (React), TypeScript, Tailwind CSS
+- Backend: Next.js API Routes, MongoDB
+- Auth with NextAuth powered by Google & email and OTP based custom auth
+- <img width="1230" height="805" alt="image" src="https://github.com/user-attachments/assets/0540d7c6-5805-4c61-8a1b-9535bc06c42c" />
+
+
 ### 🔹 [E-Commerce dashboard mini project (Repo)](https://github.com/ceotcr/bits-react-mp) - Demo Video Available
 A mini project to test out my react skills.
 - Stack & Tech: ReactJS, TypeScript, MaterialUI, TailwindCSS
